@@ -1,0 +1,547 @@
+[
+    {
+        "id": "5cd2c2e99dfa242a848f2912",
+        "title": "Developer needed to create online course",
+        "createdOn": "2019-02-11T14:01:24+00:00",
+        "type": 2,
+        "ciphertext": "~01e6e56f44c5190e54",
+        "description": "I will be creating a website using Wordpress. I would like to create and sell an online course that teaches children ages 7-10 how to do cursive. Students participating in the course will watch short videos and would be able to download pdf worksheets for each letter. Listed below are the features I am looking to implement:\n\nSelling the course to an individual for a yearly membership.\nSelling the course to a teacher..Once the teacher purchases the course they would be able to input 30 students. Each student would be able to easily log in and participate in their own course.\nEach course would show the progress that student is making.\nStudents could print out completion certificates when finished with a section.\nI would like it for the kids to not have to type in an email. They just go to their class, click on their name, type in a common password, and go. I have attached an example picture of what I would like.\n\n\n\nI have most of the videos already created, and can use Wordpress to create site.\n\nWould you be able to do this?",
+        "category2": "Web, Mobile & Software Dev",
+        "subcategory2": "Web Development",
+        "skills": [
+            {
+                "name": "web-design",
+                "prettyName": "Web Design",
+                "highlighted": false,
+                "uid": "475721704276918276"
+            },
+            {
+                "name": "website-development",
+                "prettyName": "Website Development",
+                "highlighted": false,
+                "uid": "475721704478244876"
+            },
+            {
+                "name": "wordpress",
+                "prettyName": "WordPress",
+                "highlighted": false,
+                "uid": "475721704281112587"
+            }
+        ],
+        "duration": "Less than 1 month",
+        "shortDuration": "1 month",
+        "durationLabel": "Less than 1 month",
+        "engagement": "10-30 hrs/week",
+        "shortEngagement": "10-30",
+        "amount": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "recno": 215442081,
+        "uid": "1094944461025624064",
+        "client": {
+            "paymentVerificationStatus": null,
+            "location": {
+                "country": "United States"
+            },
+            "totalSpent": 0,
+            "totalReviews": 0,
+            "totalFeedback": 0,
+            "companyRid": 0,
+            "companyName": null,
+            "edcUserId": 0,
+            "lastContractPlatform": null,
+            "lastContractRid": 0,
+            "lastContractTitle": null,
+            "feedbackText": "No feedback yet",
+            "companyOrgUid": "1094942072302460928"
+        },
+        "freelancersToHire": 0,
+        "relevanceEncoded": "{\"position\":\"0\"}",
+        "enterpriseJob": false,
+        "tierText": "Expert ($$$)",
+        "tier": "$$$",
+        "tierLabel": "Expert",
+        "isSaved": null,
+        "feedback": null,
+        "proposalsTier": "Less than 5",
+        "isApplied": false,
+        "sticky": false,
+        "stickyLabel": "",
+        "jobTs": "1549893684488",
+        "prefFreelancerLocationMandatory": true,
+        "prefFreelancerLocation": [
+            "United States"
+        ],
+        "premium": false,
+        "plusBadge": null,
+        "publishedOn": "2019-02-11T14:01:24+00:00",
+        "renewedOn": null,
+        "sandsService": null,
+        "sandsSpec": null,
+        "sandsAttrs": [],
+        "occupation": null,
+        "attrs": [
+            {
+                "name": "web-design",
+                "skillType": 1,
+                "uid": "475721704276918276",
+                "highlighted": false,
+                "prettyName": "Web Design"
+            },
+            {
+                "name": "website-development",
+                "skillType": 1,
+                "uid": "475721704478244876",
+                "highlighted": false,
+                "prettyName": "Website Development"
+            },
+            {
+                "name": "wordpress",
+                "skillType": 1,
+                "uid": "475721704281112587",
+                "highlighted": false,
+                "prettyName": "WordPress"
+            }
+        ],
+        "isLocal": false,
+        "workType": null,
+        "locations": []
+    },
+    {
+        "id": "5cd2c2e99dfa242a848f2912",
+        "title": "Developer needed to create online course",
+        "createdOn": "2019-02-11T14:01:24+00:00",
+        "type": 2,
+        "ciphertext": "~01e6e56f44c5190e54",
+        "description": "I will be creating a website using Wordpress. I would like to create and sell an online course that teaches children ages 7-10 how to do cursive. Students participating in the course will watch short videos and would be able to download pdf worksheets for each letter. Listed below are the features I am looking to implement:\n\nSelling the course to an individual for a yearly membership.\nSelling the course to a teacher..Once the teacher purchases the course they would be able to input 30 students. Each student would be able to easily log in and participate in their own course.\nEach course would show the progress that student is making.\nStudents could print out completion certificates when finished with a section.\nI would like it for the kids to not have to type in an email. They just go to their class, click on their name, type in a common password, and go. I have attached an example picture of what I would like.\n\n\n\nI have most of the videos already created, and can use Wordpress to create site.\n\nWould you be able to do this?",
+        "category2": "Web, Mobile & Software Dev",
+        "subcategory2": "Web Development",
+        "skills": [
+            {
+                "name": "web-design",
+                "prettyName": "Web Design",
+                "highlighted": false,
+                "uid": "475721704276918276"
+            },
+            {
+                "name": "website-development",
+                "prettyName": "Website Development",
+                "highlighted": false,
+                "uid": "475721704478244876"
+            },
+            {
+                "name": "wordpress",
+                "prettyName": "WordPress",
+                "highlighted": false,
+                "uid": "475721704281112587"
+            }
+        ],
+        "duration": "Less than 1 month",
+        "shortDuration": "1 month",
+        "durationLabel": "Less than 1 month",
+        "engagement": "10-30 hrs/week",
+        "shortEngagement": "10-30",
+        "amount": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "recno": 215442081,
+        "uid": "1094944461025624064",
+        "client": {
+            "paymentVerificationStatus": null,
+            "location": {
+                "country": "United States"
+            },
+            "totalSpent": 0,
+            "totalReviews": 0,
+            "totalFeedback": 0,
+            "companyRid": 0,
+            "companyName": null,
+            "edcUserId": 0,
+            "lastContractPlatform": null,
+            "lastContractRid": 0,
+            "lastContractTitle": null,
+            "feedbackText": "No feedback yet",
+            "companyOrgUid": "1094942072302460928"
+        },
+        "freelancersToHire": 0,
+        "relevanceEncoded": "{\"position\":\"0\"}",
+        "enterpriseJob": false,
+        "tierText": "Expert ($$$)",
+        "tier": "$$$",
+        "tierLabel": "Expert",
+        "isSaved": null,
+        "feedback": null,
+        "proposalsTier": "Less than 5",
+        "isApplied": false,
+        "sticky": false,
+        "stickyLabel": "",
+        "jobTs": "1549893684488",
+        "prefFreelancerLocationMandatory": true,
+        "prefFreelancerLocation": [
+            "United States"
+        ],
+        "premium": false,
+        "plusBadge": null,
+        "publishedOn": "2019-02-11T14:01:24+00:00",
+        "renewedOn": null,
+        "sandsService": null,
+        "sandsSpec": null,
+        "sandsAttrs": [],
+        "occupation": null,
+        "attrs": [
+            {
+                "name": "web-design",
+                "skillType": 1,
+                "uid": "475721704276918276",
+                "highlighted": false,
+                "prettyName": "Web Design"
+            },
+            {
+                "name": "website-development",
+                "skillType": 1,
+                "uid": "475721704478244876",
+                "highlighted": false,
+                "prettyName": "Website Development"
+            },
+            {
+                "name": "wordpress",
+                "skillType": 1,
+                "uid": "475721704281112587",
+                "highlighted": false,
+                "prettyName": "WordPress"
+            }
+        ],
+        "isLocal": false,
+        "workType": null,
+        "locations": []
+    },
+    {
+        "id": "5cd2c2e99dfa242a848f2912",
+        "title": "Developer needed to create online course",
+        "createdOn": "2019-02-11T14:01:24+00:00",
+        "type": 2,
+        "ciphertext": "~01e6e56f44c5190e54",
+        "description": "I will be creating a website using Wordpress. I would like to create and sell an online course that teaches children ages 7-10 how to do cursive. Students participating in the course will watch short videos and would be able to download pdf worksheets for each letter. Listed below are the features I am looking to implement:\n\nSelling the course to an individual for a yearly membership.\nSelling the course to a teacher..Once the teacher purchases the course they would be able to input 30 students. Each student would be able to easily log in and participate in their own course.\nEach course would show the progress that student is making.\nStudents could print out completion certificates when finished with a section.\nI would like it for the kids to not have to type in an email. They just go to their class, click on their name, type in a common password, and go. I have attached an example picture of what I would like.\n\n\n\nI have most of the videos already created, and can use Wordpress to create site.\n\nWould you be able to do this?",
+        "category2": "Web, Mobile & Software Dev",
+        "subcategory2": "Web Development",
+        "skills": [
+            {
+                "name": "web-design",
+                "prettyName": "Web Design",
+                "highlighted": false,
+                "uid": "475721704276918276"
+            },
+            {
+                "name": "website-development",
+                "prettyName": "Website Development",
+                "highlighted": false,
+                "uid": "475721704478244876"
+            },
+            {
+                "name": "wordpress",
+                "prettyName": "WordPress",
+                "highlighted": false,
+                "uid": "475721704281112587"
+            }
+        ],
+        "duration": "Less than 1 month",
+        "shortDuration": "1 month",
+        "durationLabel": "Less than 1 month",
+        "engagement": "10-30 hrs/week",
+        "shortEngagement": "10-30",
+        "amount": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "recno": 215442081,
+        "uid": "1094944461025624064",
+        "client": {
+            "paymentVerificationStatus": null,
+            "location": {
+                "country": "United States"
+            },
+            "totalSpent": 0,
+            "totalReviews": 0,
+            "totalFeedback": 0,
+            "companyRid": 0,
+            "companyName": null,
+            "edcUserId": 0,
+            "lastContractPlatform": null,
+            "lastContractRid": 0,
+            "lastContractTitle": null,
+            "feedbackText": "No feedback yet",
+            "companyOrgUid": "1094942072302460928"
+        },
+        "freelancersToHire": 0,
+        "relevanceEncoded": "{\"position\":\"0\"}",
+        "enterpriseJob": false,
+        "tierText": "Expert ($$$)",
+        "tier": "$$$",
+        "tierLabel": "Expert",
+        "isSaved": null,
+        "feedback": null,
+        "proposalsTier": "Less than 5",
+        "isApplied": false,
+        "sticky": false,
+        "stickyLabel": "",
+        "jobTs": "1549893684488",
+        "prefFreelancerLocationMandatory": true,
+        "prefFreelancerLocation": [
+            "United States"
+        ],
+        "premium": false,
+        "plusBadge": null,
+        "publishedOn": "2019-02-11T14:01:24+00:00",
+        "renewedOn": null,
+        "sandsService": null,
+        "sandsSpec": null,
+        "sandsAttrs": [],
+        "occupation": null,
+        "attrs": [
+            {
+                "name": "web-design",
+                "skillType": 1,
+                "uid": "475721704276918276",
+                "highlighted": false,
+                "prettyName": "Web Design"
+            },
+            {
+                "name": "website-development",
+                "skillType": 1,
+                "uid": "475721704478244876",
+                "highlighted": false,
+                "prettyName": "Website Development"
+            },
+            {
+                "name": "wordpress",
+                "skillType": 1,
+                "uid": "475721704281112587",
+                "highlighted": false,
+                "prettyName": "WordPress"
+            }
+        ],
+        "isLocal": false,
+        "workType": null,
+        "locations": []
+    },
+    {
+        "id": "5cd2c2e99dfa242a848f2912",
+        "title": "Developer needed to create online course",
+        "createdOn": "2019-02-11T14:01:24+00:00",
+        "type": 2,
+        "ciphertext": "~01e6e56f44c5190e54",
+        "description": "I will be creating a website using Wordpress. I would like to create and sell an online course that teaches children ages 7-10 how to do cursive. Students participating in the course will watch short videos and would be able to download pdf worksheets for each letter. Listed below are the features I am looking to implement:\n\nSelling the course to an individual for a yearly membership.\nSelling the course to a teacher..Once the teacher purchases the course they would be able to input 30 students. Each student would be able to easily log in and participate in their own course.\nEach course would show the progress that student is making.\nStudents could print out completion certificates when finished with a section.\nI would like it for the kids to not have to type in an email. They just go to their class, click on their name, type in a common password, and go. I have attached an example picture of what I would like.\n\n\n\nI have most of the videos already created, and can use Wordpress to create site.\n\nWould you be able to do this?",
+        "category2": "Web, Mobile & Software Dev",
+        "subcategory2": "Web Development",
+        "skills": [
+            {
+                "name": "web-design",
+                "prettyName": "Web Design",
+                "highlighted": false,
+                "uid": "475721704276918276"
+            },
+            {
+                "name": "website-development",
+                "prettyName": "Website Development",
+                "highlighted": false,
+                "uid": "475721704478244876"
+            },
+            {
+                "name": "wordpress",
+                "prettyName": "WordPress",
+                "highlighted": false,
+                "uid": "475721704281112587"
+            }
+        ],
+        "duration": "Less than 1 month",
+        "shortDuration": "1 month",
+        "durationLabel": "Less than 1 month",
+        "engagement": "10-30 hrs/week",
+        "shortEngagement": "10-30",
+        "amount": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "recno": 215442081,
+        "uid": "1094944461025624064",
+        "client": {
+            "paymentVerificationStatus": null,
+            "location": {
+                "country": "United States"
+            },
+            "totalSpent": 0,
+            "totalReviews": 0,
+            "totalFeedback": 0,
+            "companyRid": 0,
+            "companyName": null,
+            "edcUserId": 0,
+            "lastContractPlatform": null,
+            "lastContractRid": 0,
+            "lastContractTitle": null,
+            "feedbackText": "No feedback yet",
+            "companyOrgUid": "1094942072302460928"
+        },
+        "freelancersToHire": 0,
+        "relevanceEncoded": "{\"position\":\"0\"}",
+        "enterpriseJob": false,
+        "tierText": "Expert ($$$)",
+        "tier": "$$$",
+        "tierLabel": "Expert",
+        "isSaved": null,
+        "feedback": null,
+        "proposalsTier": "Less than 5",
+        "isApplied": false,
+        "sticky": false,
+        "stickyLabel": "",
+        "jobTs": "1549893684488",
+        "prefFreelancerLocationMandatory": true,
+        "prefFreelancerLocation": [
+            "United States"
+        ],
+        "premium": false,
+        "plusBadge": null,
+        "publishedOn": "2019-02-11T14:01:24+00:00",
+        "renewedOn": null,
+        "sandsService": null,
+        "sandsSpec": null,
+        "sandsAttrs": [],
+        "occupation": null,
+        "attrs": [
+            {
+                "name": "web-design",
+                "skillType": 1,
+                "uid": "475721704276918276",
+                "highlighted": false,
+                "prettyName": "Web Design"
+            },
+            {
+                "name": "website-development",
+                "skillType": 1,
+                "uid": "475721704478244876",
+                "highlighted": false,
+                "prettyName": "Website Development"
+            },
+            {
+                "name": "wordpress",
+                "skillType": 1,
+                "uid": "475721704281112587",
+                "highlighted": false,
+                "prettyName": "WordPress"
+            }
+        ],
+        "isLocal": false,
+        "workType": null,
+        "locations": []
+    },
+    {
+        "id": "5cd2c2e99dfa242a848f2912",
+        "title": "Developer needed to create online course",
+        "createdOn": "2019-02-11T14:01:24+00:00",
+        "type": 2,
+        "ciphertext": "~01e6e56f44c5190e54",
+        "description": "I will be creating a website using Wordpress. I would like to create and sell an online course that teaches children ages 7-10 how to do cursive. Students participating in the course will watch short videos and would be able to download pdf worksheets for each letter. Listed below are the features I am looking to implement:\n\nSelling the course to an individual for a yearly membership.\nSelling the course to a teacher..Once the teacher purchases the course they would be able to input 30 students. Each student would be able to easily log in and participate in their own course.\nEach course would show the progress that student is making.\nStudents could print out completion certificates when finished with a section.\nI would like it for the kids to not have to type in an email. They just go to their class, click on their name, type in a common password, and go. I have attached an example picture of what I would like.\n\n\n\nI have most of the videos already created, and can use Wordpress to create site.\n\nWould you be able to do this?",
+        "category2": "Web, Mobile & Software Dev",
+        "subcategory2": "Web Development",
+        "skills": [
+            {
+                "name": "web-design",
+                "prettyName": "Web Design",
+                "highlighted": false,
+                "uid": "475721704276918276"
+            },
+            {
+                "name": "website-development",
+                "prettyName": "Website Development",
+                "highlighted": false,
+                "uid": "475721704478244876"
+            },
+            {
+                "name": "wordpress",
+                "prettyName": "WordPress",
+                "highlighted": false,
+                "uid": "475721704281112587"
+            }
+        ],
+        "duration": "Less than 1 month",
+        "shortDuration": "1 month",
+        "durationLabel": "Less than 1 month",
+        "engagement": "10-30 hrs/week",
+        "shortEngagement": "10-30",
+        "amount": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "recno": 215442081,
+        "uid": "1094944461025624064",
+        "client": {
+            "paymentVerificationStatus": null,
+            "location": {
+                "country": "United States"
+            },
+            "totalSpent": 0,
+            "totalReviews": 0,
+            "totalFeedback": 0,
+            "companyRid": 0,
+            "companyName": null,
+            "edcUserId": 0,
+            "lastContractPlatform": null,
+            "lastContractRid": 0,
+            "lastContractTitle": null,
+            "feedbackText": "No feedback yet",
+            "companyOrgUid": "1094942072302460928"
+        },
+        "freelancersToHire": 0,
+        "relevanceEncoded": "{\"position\":\"0\"}",
+        "enterpriseJob": false,
+        "tierText": "Expert ($$$)",
+        "tier": "$$$",
+        "tierLabel": "Expert",
+        "isSaved": null,
+        "feedback": null,
+        "proposalsTier": "Less than 5",
+        "isApplied": false,
+        "sticky": false,
+        "stickyLabel": "",
+        "jobTs": "1549893684488",
+        "prefFreelancerLocationMandatory": true,
+        "prefFreelancerLocation": [
+            "United States"
+        ],
+        "premium": false,
+        "plusBadge": null,
+        "publishedOn": "2019-02-11T14:01:24+00:00",
+        "renewedOn": null,
+        "sandsService": null,
+        "sandsSpec": null,
+        "sandsAttrs": [],
+        "occupation": null,
+        "attrs": [
+            {
+                "name": "web-design",
+                "skillType": 1,
+                "uid": "475721704276918276",
+                "highlighted": false,
+                "prettyName": "Web Design"
+            },
+            {
+                "name": "website-development",
+                "skillType": 1,
+                "uid": "475721704478244876",
+                "highlighted": false,
+                "prettyName": "Website Development"
+            },
+            {
+                "name": "wordpress",
+                "skillType": 1,
+                "uid": "475721704281112587",
+                "highlighted": false,
+                "prettyName": "WordPress"
+            }
+        ],
+        "isLocal": false,
+        "workType": null,
+        "locations": []
+    }
+]
