@@ -4,6 +4,7 @@
   "description": "build a search engine using elastic search and node",
   "main": "server.js",
   "scripts": {
+    "start":"nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -16,6 +17,8 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "elasticsearch": "^13.3.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoosastic": "^4.5.1",
+    "mongoose": "^5.7.3"
   }
 }
