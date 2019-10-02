@@ -96,6 +96,7 @@ const JobSchema = new mongoose.Schema({
     collection: 'job'
 });
 
+// connection elastic
 JobSchema.plugin(mongoosastic, {
     "host": "localhost",
     "port": 9200

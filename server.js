@@ -48,7 +48,19 @@ app.get('/search', function (req, res) {
   });
 })
 
-app.get('/job/new',function (req, res) {
+app.get('/search-title', function (req, res) {
+  jobcoll.search({
+    match: {
+      title: req.query['q']
+    }
+  }, function(err, results) {
+    console.log('err:', err);
+    return res.send(results.hits.hits);
+  });
+})
+
+
+app.post('/job/new',function (req, res) {
   var docjob = new jobcoll({
         "title": "Developer needed to create online course",
         "createdOn": "2019-02-11T14:01:24+00:00",
